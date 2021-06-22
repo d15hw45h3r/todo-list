@@ -87,7 +87,7 @@ function App() {
         className="task-done"
       />
       <footer>
-        <a>Github Url</a>
+        <a href="https://github.com/d15hw45h3r/todo-list">Github Url</a>
       </footer>
     </div>
   );
